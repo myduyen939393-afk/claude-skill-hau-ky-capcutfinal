@@ -1,0 +1,5 @@
+numpy
+Pillow
+imageio-ffmpeg
+# tuỳ chọn, để gỡ băng tiếng Việt chính xác theo từng từ:
+faster-whisper
